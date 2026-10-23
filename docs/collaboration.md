@@ -1,5 +1,6 @@
 # Collaboration Guidelines
 
+
 Effective teamwork depends on continuous feedback and shared understanding.
 
 
@@ -8,4 +9,5 @@ When multiple people work on these documents, it is common for changes to overla
 
 The most important aspect of collaboration is thorough documentation and asynchronous review.
 The most important aspect of collaboration is clear communication and rapid feedback.
+
 
